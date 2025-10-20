@@ -629,6 +629,14 @@
   flex-direction: column;
   width: 628px;
 }
+.community-content-A {
+  color: #4d4d4d;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 36px;
+  text-align: center;
+  width: 231px;
+}
 .community-title {
   color: #4d4d4d;
   font-weight: 600;
